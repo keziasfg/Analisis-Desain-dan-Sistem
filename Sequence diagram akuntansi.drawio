@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Halaman-1" id="zoM6gTn-_rXsr2XwCEyh">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-1" value="Business" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-2" value="Accountant" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-3" value="SourceDocument" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="491" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-4" value="Journal" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="691" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-5" value="Ledger" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="891" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-6" value="TrialBalance" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-7" value="AdjustingEntries" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-8" value="AdjustedTrialBalance" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1491" y="20" width="166" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-9" value="FinancialStatements" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1707" y="20" width="160" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-10" value="ClosingEntries" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1917" y="20" width="150" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-11" value="PostClosingTrialBalance" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2117" y="20" width="185" height="1096" as="geometry" />
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-12" value="Provide transaction details (e.g., invoice, receipt)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-1" target="FeUlTEEgX6dd9c3bsokx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-13" value="Source document generated" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-3" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-14" value="Analyze and record transaction in journal (debits and credits)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="539" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-15" value="Journal entry recorded" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-4" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="542" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-16" value="Post journal entries to appropriate ledger accounts" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="639" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-17" value="Ledger accounts updated" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-5" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="642" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-18" value="Prepare unadjusted trial balance" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="739" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-19" value="Unadjusted trial balance ready" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-6" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="742" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-20" value="Identify and record adjusting entries (e.g., accruals, deferrals)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="839" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-21" value="Adjusting entries recorded" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-7" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-22" value="Prepare adjusted trial balance" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-23" value="Adjusted trial balance ready" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-8" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="946" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-24" value="Prepare financial statements (Income Statement, Balance Sheet, etc.)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-25" value="Financial statements completed" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-9" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1053" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-26" value="Record closing entries to close temporary accounts" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1152" y="855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-27" value="Closing entries completed" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-10" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-28" value="Prepare post-closing trial balance" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-2" target="FeUlTEEgX6dd9c3bsokx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1261" y="959" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FeUlTEEgX6dd9c3bsokx-29" value="Post-closing trial balance ready" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="FeUlTEEgX6dd9c3bsokx-11" target="FeUlTEEgX6dd9c3bsokx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1264" y="1011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
